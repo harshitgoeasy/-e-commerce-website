@@ -20,17 +20,6 @@ Cross-Browser Compatibility: Compatible with all major browsers.
 Installation
 To get a local copy of the project up and running, follow these steps:
 
-Clone the repository:
-
-sh
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project directory:
-
-sh
-Copy code
-cd your-repo-name
-Open index.html in your browser:
 
 You can directly open the index.html file in your browser or use a live server extension in your code editor for better development experience.
 
@@ -42,8 +31,7 @@ css/: Directory containing all CSS files.
 styles.css: Main stylesheet.
 js/: Directory containing all JavaScript files.
 scripts.js: Main JavaScript file.
-Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
 
 Fork the Project.
 Create your Feature Branch (git checkout -b feature/AmazingFeature).
