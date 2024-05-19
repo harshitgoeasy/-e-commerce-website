@@ -1,4 +1,5 @@
 # -e-commerce-website
+
 Front-End Website Project
 Welcome to the Front-End Website Project! This repository contains the code for a modern, responsive website built using HTML, CSS, and JavaScript.
 
@@ -20,7 +21,6 @@ Cross-Browser Compatibility: Compatible with all major browsers.
 Installation
 To get a local copy of the project up and running, follow these steps:
 
-
 You can directly open the index.html file in your browser or use a live server extension in your code editor for better development experience.
 
 Usage
@@ -32,9 +32,10 @@ styles.css: Main stylesheet.
 js/: Directory containing all JavaScript files.
 scripts.js: Main JavaScript file.
 
-
 Fork the Project.
 Create your Feature Branch (git checkout -b feature/AmazingFeature).
 Commit your Changes (git commit -m 'Add some AmazingFeature').
 Push to the Branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
+
+i am making a change in this repositoring by visual studio for learning purpose
