@@ -39,3 +39,5 @@ Push to the Branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
 i am making a change in this repositoring by visual studio for learning purpose
+
+this is the third commit in the code
